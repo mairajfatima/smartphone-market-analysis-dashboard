@@ -431,13 +431,7 @@ Camera Price Efficiency = DIVIDE([Avg Rear Camera MP], [Avg Price])
 📦 smartphone-market-analysis-dashboard/
 ├── 📊 Smartphone_Market_Analysis.pbix      ← Main Power BI report file
 ├── 📄 smartphones_cleaned_dataset.csv      ← Source dataset
-├── 🖼️ screenshots/
-│   ├── home_page.png
-│   ├── pricing_analysis.png
-│   ├── rating_performance.png
-│   ├── features_connectivity.png
-│   ├── specifications.png
-│   └── brand_intelligence.png
+├── 📄 smartphones_Market Analysis Dashbaord.pdf   ← PDF
 └── 📝 README.md                            ← This file
 ```
 
